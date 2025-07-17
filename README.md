@@ -1,6 +1,2 @@
-"# my_first_repo" 
-"# 23SDCSA" 
-"This is the new text." 
-"# 23CSDCSA, 23CS2227F(dav), DISTRIBUTED COMPUTTING, CRYPT ANALYSIS AND CYBER DEFENSE" 
-"# 123" 
+"# ecommerces" 
 "# ecommerces" 
